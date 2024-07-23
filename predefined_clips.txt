@@ -1,0 +1,34 @@
+---START---
+First copy = Alt+1
+---END---
+
+---START---
+Друге Копіювання (2)
+---END---
+
+---START---
+3Copy = Number 3 = Alt+3
+---END---
+
+---START---
+Here is
+example
+
+of text for 4
+---END---
+
+---START---
+Number 5
+---END---
+
+---START---
+Number 6 -0=9][\'=40
+---END---
+
+---START---
+Number 7
+---END---
+
+---START---
+Number 8 - example of any text
+---END---
