@@ -67,7 +67,7 @@ Imagine you often need to copy different sections of a report or frequently used
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-For any inquiries or feedback, you can reach out to the project maintainer:
+For any inquiries or feedback, you can reach out:
 Bohdan Misonh - https://www.linkedin.com/in/bohdan-misyonh/
 
 ## Thank you for using ClipMinder, and happy clipping!
