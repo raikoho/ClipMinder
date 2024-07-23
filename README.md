@@ -2,7 +2,7 @@
 
 _"Transform your workflow with the power of effortless text management, and let every keystroke be a symphony of productivity."_
 
-**ClipMinder** is a powerful and versatile clipboard manager designed to enhance your productivity by providing easy access to predefined text snippets. Developed by Bohdan Misonh, this tool is perfect for users who frequently need to copy and paste various text blocks, allowing for quick and efficient text management.
+**ClipMinder** is a powerful and versatile clipboard manager designed to enhance your productivity by providing easy access to predefined text snippets. This tool is perfect for users who frequently need to copy and paste various text blocks, greatly expand the overall clipboard, allowing for quick and efficient text management.
 
 ## Features
 
