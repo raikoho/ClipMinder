@@ -1,4 +1,3 @@
-# ClipMinder
 ![ClipMinder Banner](ClipMinder.png)
 
 **ClipMinder** is a powerful and versatile clipboard manager designed to enhance your productivity by providing easy access to predefined text snippets. Developed by Bohdan Misonh, this tool is perfect for users who frequently need to copy and paste various text blocks, allowing for quick and efficient text management.
