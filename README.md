@@ -29,19 +29,18 @@ When you run ClipMinder, you'll be greeted with an introduction screen and promp
 2) Copy and Paste: Choose this to enable automatic pasting of copied text.
 3) Redefine Keys: Customize the hotkeys for various actions including copying, clearing the clipboard, and opening the file.
 Your file - **predefined_clips.txt** aims to establish your own text for future copying. Set the text directly in the block (between the end and the beginning). It looks something like this:
->
----START---
-First copy = Alt+1
----END---
 
----START---
-Друге Копіювання (2)
----END---
+>---START---
+>First copy = Alt+1
+>---END---
 
----START---
-3Copy = Number 3 = Alt+3
----END---
-<
+>---START---
+>Друге Копіювання (2)
+>---END---
+
+>---START---
+>3Copy = Number 3 = Alt+3
+>---END---
 
 #### Example Hotkeys
 - Alt+1 to Alt+8: Copy corresponding text blocks.
