@@ -1,5 +1,7 @@
 ![ClipMinder Banner](ClipMinder.png)
 
+_"Transform your workflow with the power of effortless text management, and let every keystroke be a symphony of productivity."_
+
 **ClipMinder** is a powerful and versatile clipboard manager designed to enhance your productivity by providing easy access to predefined text snippets. Developed by Bohdan Misonh, this tool is perfect for users who frequently need to copy and paste various text blocks, allowing for quick and efficient text management.
 
 ## Features
@@ -26,6 +28,20 @@ When you run ClipMinder, you'll be greeted with an introduction screen and promp
 1) Copy Only: Select this option to enable text copying with predefined hotkeys.
 2) Copy and Paste: Choose this to enable automatic pasting of copied text.
 3) Redefine Keys: Customize the hotkeys for various actions including copying, clearing the clipboard, and opening the file.
+Your file - **predefined_clips.txt** aims to establish your own text for future copying. Set the text directly in the block (between the end and the beginning). It looks something like this:
+>
+---START---
+First copy = Alt+1
+---END---
+
+---START---
+Друге Копіювання (2)
+---END---
+
+---START---
+3Copy = Number 3 = Alt+3
+---END---
+<
 
 #### Example Hotkeys
 - Alt+1 to Alt+8: Copy corresponding text blocks.
