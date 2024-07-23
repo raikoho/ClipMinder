@@ -69,5 +69,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 For any inquiries or feedback, you can reach out:
 Bohdan Misonh - https://www.linkedin.com/in/bohdan-misyonh/
-
-## Thank you for using ClipMinder, and happy clipping!
+I will be glad for new ideas and impressions from using this program.
